@@ -26,8 +26,8 @@ Deep Thoughts is a social media app where users can create thoughts, add reactio
 
 
 ## Contact
-[GitHub profile](https://github.com/azizahmed77/)
-Contact me at **ahmed613@umn.edu** if you have any questions
+- [GitHub profile](https://github.com/azizahmed77/)
+- Contact me at **ahmed613@umn.edu** if you have any questions
 
 ## Links
 - **[Deployed App](https://arcane-depths-10773.herokuapp.com)**
