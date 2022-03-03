@@ -14,15 +14,15 @@ Deep Thoughts is a social media app where users can create thoughts, add reactio
 
 
 ## Technology Used
-![JavaScript]       
-![CSS]
-![Express.js]
-![Node.js] 
-![MongoDB]  
-![Mongoose.js]  
-![GraphQL]
-![Apollo Server] 
-![Heroku] 
+- JavaScript       
+- CSS
+- Express.js
+- Node.js
+- MongoDB  
+- Mongoose 
+- GraphQL
+- Apollo Server 
+- Heroku 
 
 
 ## Contact
